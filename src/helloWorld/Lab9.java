@@ -9,6 +9,6 @@ public class Lab9 {
 			}
 			System.out.println("Normal " + count);
 		}
-		
+		//end of Lab9
 	}
 }
